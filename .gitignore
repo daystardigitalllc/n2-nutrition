@@ -1,0 +1,7 @@
+# working files — only /site is published
+_raw/
+_tmp/
+*.mp4
+!site/assets/video/*.mp4
+/logo.jpg
+/482032211_*.jpg
